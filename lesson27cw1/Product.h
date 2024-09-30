@@ -4,7 +4,6 @@
 using namespace std;
 class Product
 {
-protected:
 	string m_name;
 	float m_price;
 	float m_weight;
